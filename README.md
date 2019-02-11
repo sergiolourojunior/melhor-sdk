@@ -1,52 +1,19 @@
-# Very short description of the package
+# Melhor SDK
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sergiolourojunior/melhor-sdk.svg?style=flat-square)](https://packagist.org/packages/sergiolourojunior/melhor-sdk)
-[![Build Status](https://img.shields.io/travis/sergiolourojunior/melhor-sdk/master.svg?style=flat-square)](https://travis-ci.org/sergiolourojunior/melhor-sdk)
-[![Quality Score](https://img.shields.io/scrutinizer/g/sergiolourojunior/melhor-sdk.svg?style=flat-square)](https://scrutinizer-ci.com/g/sergiolourojunior/melhor-sdk)
-[![Total Downloads](https://img.shields.io/packagist/dt/sergiolourojunior/melhor-sdk.svg?style=flat-square)](https://packagist.org/packages/sergiolourojunior/melhor-sdk)
+## Desenvolvimento
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Os primeiros testes foram realizados com a utilização do Postaman. Após se adequar ao funcionamento da API, utilizei a cURL para a integração no SDK.
 
-## Installation
+## Instalação
 
-You can install the package via composer:
+Instalação do pacote via composer:
 
 ```bash
 composer require sergiolourojunior/melhor-sdk
 ```
+## Licença
 
-## Usage
-
-``` php
-// Usage description here
-```
-
-### Testing
-
-``` bash
-composer test
-```
-
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email sergiolourojunior@gmail.com instead of using the issue tracker.
-
-## Credits
-
-- [Sérgio Louro Júnior](https://github.com/sergiolourojunior)
-- [All Contributors](../../contributors)
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT).
 
 ## Laravel Package Boilerplate
 
